@@ -96,3 +96,7 @@ Address and command fields accept hex in any of these formats — they are norma
 
 ---
 
+## Thanks To
+- [Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) by logickworkshop
+
+For the database.

@@ -36,14 +36,14 @@ Search recursively through directories to find IR remote files that match specif
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Remote_Finder.git
-cd Remote_Finder
+git clone https://github.com/Entinso/Flipper_IR_Finder.git
+cd Flipper_IR_Finder
 
 # Install the optional modern UI library
 pip install ttkbootstrap
 
 # Run
-python Remote_Finder.py
+python Flipper_ir_finder.py
 ```
 
 No build step required. The tool runs directly from a single Python file.
